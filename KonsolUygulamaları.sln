@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "KonsolUygulamaları\HesapMakinesi.csproj", "{7FF8E665-F8E3-489C-923B-4995F6FC51F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp", "TodoApp\TodoApp.csproj", "{0CFE2665-D341-41BA-8314-1C0ECD29203E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7FF8E665-F8E3-489C-923B-4995F6FC51F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF8E665-F8E3-489C-923B-4995F6FC51F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF8E665-F8E3-489C-923B-4995F6FC51F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
