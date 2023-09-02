@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "KonsolUygu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp", "TodoApp\TodoApp.csproj", "{0CFE2665-D341-41BA-8314-1C0ECD29203E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostumerApp", "CostumerApp\CostumerApp.csproj", "{0F58D9D5-F6D7-46E7-8F77-62EE29146806}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CFE2665-D341-41BA-8314-1C0ECD29203E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
