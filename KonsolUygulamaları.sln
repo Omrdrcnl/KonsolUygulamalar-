@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "KonsolUygulamaları\HesapMakinesi.csproj", "{7FF8E665-F8E3-489C-923B-4995F6FC51F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HesapMakinesi", "KonsolUygulamaları\HesapMakinesi.csproj", "{7FF8E665-F8E3-489C-923B-4995F6FC51F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp", "TodoApp\TodoApp.csproj", "{0CFE2665-D341-41BA-8314-1C0ECD29203E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp", "TodoApp\TodoApp.csproj", "{0CFE2665-D341-41BA-8314-1C0ECD29203E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostumerApp", "CostumerApp\CostumerApp.csproj", "{0F58D9D5-F6D7-46E7-8F77-62EE29146806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CostumerApp", "CostumerApp\CostumerApp.csproj", "{0F58D9D5-F6D7-46E7-8F77-62EE29146806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps", "BasicApps\BasicApps.csproj", "{33C017E4-6830-4BB7-8374-1C758A56508D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApp", "OrderApp\OrderApp.csproj", "{26F27B37-76DE-4A83-9665-9466F8D9E246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F58D9D5-F6D7-46E7-8F77-62EE29146806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C017E4-6830-4BB7-8374-1C758A56508D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C017E4-6830-4BB7-8374-1C758A56508D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C017E4-6830-4BB7-8374-1C758A56508D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C017E4-6830-4BB7-8374-1C758A56508D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F27B37-76DE-4A83-9665-9466F8D9E246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F27B37-76DE-4A83-9665-9466F8D9E246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F27B37-76DE-4A83-9665-9466F8D9E246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F27B37-76DE-4A83-9665-9466F8D9E246}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
