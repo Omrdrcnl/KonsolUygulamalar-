@@ -69,7 +69,7 @@ namespace FileMs
         static void FileList()
         {
             Console.WriteLine("Dosya Listesi:");
-            for(int i =0; i< files.Count(); i++)
+            for(int i =0; i< files.Count; i++)
             {
                 Console.WriteLine((i+1) +". " + files[i].Name);
 

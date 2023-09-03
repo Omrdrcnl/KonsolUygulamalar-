@@ -9,13 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp", "TodoApp\TodoApp.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CostumerApp", "CostumerApp\CostumerApp.csproj", "{0F58D9D5-F6D7-46E7-8F77-62EE29146806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps", "BasicApps\BasicApps.csproj", "{33C017E4-6830-4BB7-8374-1C758A56508D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicApps", "BasicApps\BasicApps.csproj", "{33C017E4-6830-4BB7-8374-1C758A56508D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApp", "OrderApp\OrderApp.csproj", "{26F27B37-76DE-4A83-9665-9466F8D9E246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderApp", "OrderApp\OrderApp.csproj", "{26F27B37-76DE-4A83-9665-9466F8D9E246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps1", "BasicApps1\BasicApps1.csproj", "{DB2383F1-FBDF-466E-8E6A-619FD0AC4A4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicApps1", "BasicApps1\BasicApps1.csproj", "{DB2383F1-FBDF-466E-8E6A-619FD0AC4A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMs", "FileMs\FileMs.csproj", "{41C01A95-9CCF-4D55-A252-FA779C91399A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileMs", "FileMs\FileMs.csproj", "{41C01A95-9CCF-4D55-A252-FA779C91399A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps2", "BasicApps2\BasicApps2.csproj", "{53457264-1D8A-48B2-A9A1-F74222EBC5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryBasicApp", "DictionaryBasicApp\DictionaryBasicApp.csproj", "{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{41C01A95-9CCF-4D55-A252-FA779C91399A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41C01A95-9CCF-4D55-A252-FA779C91399A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41C01A95-9CCF-4D55-A252-FA779C91399A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53457264-1D8A-48B2-A9A1-F74222EBC5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53457264-1D8A-48B2-A9A1-F74222EBC5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53457264-1D8A-48B2-A9A1-F74222EBC5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53457264-1D8A-48B2-A9A1-F74222EBC5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
