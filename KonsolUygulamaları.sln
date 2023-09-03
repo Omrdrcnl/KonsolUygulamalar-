@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps2", "BasicApps2\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryBasicApp", "DictionaryBasicApp\DictionaryBasicApp.csproj", "{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{27F9E89F-E4D6-4F78-996C-169A41ED6C08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F9E89F-E4D6-4F78-996C-169A41ED6C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F9E89F-E4D6-4F78-996C-169A41ED6C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F9E89F-E4D6-4F78-996C-169A41ED6C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F9E89F-E4D6-4F78-996C-169A41ED6C08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
