@@ -17,17 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicApps1", "BasicApps1\Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileMs", "FileMs\FileMs.csproj", "{41C01A95-9CCF-4D55-A252-FA779C91399A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps2", "BasicApps2\BasicApps2.csproj", "{53457264-1D8A-48B2-A9A1-F74222EBC5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicApps2", "BasicApps2\BasicApps2.csproj", "{53457264-1D8A-48B2-A9A1-F74222EBC5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryBasicApp", "DictionaryBasicApp\DictionaryBasicApp.csproj", "{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryBasicApp", "DictionaryBasicApp\DictionaryBasicApp.csproj", "{0DD02F7A-CFEF-4738-BD62-43C05BF86A49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{27F9E89F-E4D6-4F78-996C-169A41ED6C08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{27F9E89F-E4D6-4F78-996C-169A41ED6C08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCapps3", "BasicCapps3\BasicCapps3.csproj", "{508CB023-FD9D-4B3B-BB93-AA3A14685EFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCapps3", "BasicCapps3\BasicCapps3.csproj", "{508CB023-FD9D-4B3B-BB93-AA3A14685EFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCapps4", "BasicCapps4\BasicCapps4.csproj", "{26149C35-C48C-4A76-8C6C-E6CB693A07F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCapps4", "BasicCapps4\BasicCapps4.csproj", "{26149C35-C48C-4A76-8C6C-E6CB693A07F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCapps5", "BasicCapps5\BasicCapps5.csproj", "{17C114E5-00C5-4A48-B9B3-9197906B6DD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCapps5", "BasicCapps5\BasicCapps5.csproj", "{17C114E5-00C5-4A48-B9B3-9197906B6DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCapps6", "BasicCapps6\BasicCapps6.csproj", "{B914851D-D2A7-4200-B877-7EC2F45EAEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicApps7", "BasicApps7\BasicApps7.csproj", "{587F7328-2B09-4AF3-B383-9D0065CB8B80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{17C114E5-00C5-4A48-B9B3-9197906B6DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C114E5-00C5-4A48-B9B3-9197906B6DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C114E5-00C5-4A48-B9B3-9197906B6DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B914851D-D2A7-4200-B877-7EC2F45EAEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B914851D-D2A7-4200-B877-7EC2F45EAEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B914851D-D2A7-4200-B877-7EC2F45EAEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B914851D-D2A7-4200-B877-7EC2F45EAEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587F7328-2B09-4AF3-B383-9D0065CB8B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587F7328-2B09-4AF3-B383-9D0065CB8B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587F7328-2B09-4AF3-B383-9D0065CB8B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587F7328-2B09-4AF3-B383-9D0065CB8B80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

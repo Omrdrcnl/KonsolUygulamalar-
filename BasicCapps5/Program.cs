@@ -10,7 +10,7 @@ namespace BasicCapps5
 			Console.WriteLine("Lütfen sayı giriniz");
 			int sayi = int.Parse(Console.ReadLine());
 
-			int[] sayilar = new int[sayi];
+
             int sonuc = 1;
 			string _sonuc = "";
 
@@ -24,9 +24,8 @@ namespace BasicCapps5
                 {
 
                     sonuc *= i;
-
-	
 					_sonuc += $"{i} x ";
+
 					if(i == sayi)
 					{
 						_sonuc += $"{i} ={sonuc}" ;
@@ -35,8 +34,23 @@ namespace BasicCapps5
 
                 Console.WriteLine("Faktöriyel sonuç: " + _sonuc);
             }
-
-			Console.ReadLine();
+            Console.WriteLine("---Fonksiyon Sonucu---");
+            Console.WriteLine("Sonuç: "+ Faktoriyel(sayi));
+            Console.ReadLine();
 		}
+
+		static int Faktoriyel(int i)
+		{
+			if (i > 1)
+			{
+				return i * Faktoriyel(--i);// Rekürsif(Kendi içinde fonksiyonu çağırmak) aynı işlemi tekrarlamak için kullandık
+			}
+			else if (i == 0)
+			{
+				return 1;
+			}
+			else return i;
+		}
+
 	}
 }
