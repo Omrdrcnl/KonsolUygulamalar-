@@ -37,7 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCApps8", "BasicCApps8\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCApps9", "BasicCApps9\BasicCApps9.csproj", "{989B5CA8-AB1F-427A-9494-748FFEF83883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CappEducation", "CappEducation\CappEducation.csproj", "{15251AB3-FF9C-435D-9010-691B38B255EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CappEducation", "CappEducation\CappEducation.csproj", "{15251AB3-FF9C-435D-9010-691B38B255EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CappEducation1", "CappEducation1\CappEducation1.csproj", "{2B15B56A-BEBB-4AE3-973C-0CB4CC0F6C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CappsEducation2", "CappsEducation2\CappsEducation2.csproj", "{EDA0CF33-F5BD-4C39-BCAC-CA1C34F150F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{15251AB3-FF9C-435D-9010-691B38B255EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15251AB3-FF9C-435D-9010-691B38B255EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15251AB3-FF9C-435D-9010-691B38B255EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B15B56A-BEBB-4AE3-973C-0CB4CC0F6C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B15B56A-BEBB-4AE3-973C-0CB4CC0F6C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B15B56A-BEBB-4AE3-973C-0CB4CC0F6C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B15B56A-BEBB-4AE3-973C-0CB4CC0F6C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA0CF33-F5BD-4C39-BCAC-CA1C34F150F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA0CF33-F5BD-4C39-BCAC-CA1C34F150F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA0CF33-F5BD-4C39-BCAC-CA1C34F150F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA0CF33-F5BD-4C39-BCAC-CA1C34F150F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

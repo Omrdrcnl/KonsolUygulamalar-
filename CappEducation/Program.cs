@@ -9,8 +9,8 @@ namespace CappEducation
         {
             x();
         }
-        //Local fonksiyonlar yalnızca tanımlandıgı method içerisinden erişilebilir.
-        // Üst fonksiyonla aynı isimde tanımlanırsa içerisinde ki fonksiyon dısardakini ezecektir.
+        //  Local fonksiyonlar yalnızca tanımlandıgı method içerisinden erişilebilir.
+        //  Üst fonksiyonla aynı isimde tanımlanırsa içerisinde ki fonksiyon dısardakini ezecektir.
         public static void x()
         {
             void y()
@@ -20,7 +20,11 @@ namespace CappEducation
 
             y();
         }
-        //İleri seviyede Anonim, Delegate, Func gibi yapılar local fuunction yerine kullanılıyor.
+        /* 
+        * İleri seviyede Anonim, Delegate, Func gibi yapılar local fuunction yerine kullanılıyor.
+        * Local fonksiyonlar static olarak işaretlenirse method içerisinde ki değişkenlere direkt erişemez,
+        * onun yerine parametre olarak gönderiririz. Aksi halde fonksiyonun maliyeti çok yüksek olacaktır.
+        */
 
     }
 }
