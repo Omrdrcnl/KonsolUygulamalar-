@@ -37,9 +37,10 @@ namespace CappsEducation2
             Console.WriteLine(a);
 
         }
+
         /*
 		 * Ref Returns özelliği sadece metotlarda geçerlidir.
-		 * 
+		 * refaransı return eden fonksiyonlardır. 
 		 */
         static int a = 5;
         static int b = X(ref a);
